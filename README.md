@@ -1,1 +1,1 @@
-# malladikrishnamanideeppatterns
+# patterns
